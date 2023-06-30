@@ -12,6 +12,7 @@ $ yarn dev
 ## Build
 
 Artifact will be generated in `dist/` directory.
+
 ```console
 $ yarn build
 ```
