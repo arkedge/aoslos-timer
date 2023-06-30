@@ -27,7 +27,7 @@ jobs:
         run: |
           chmod -c -R +rX "dist/"
 
-      - name: Archive rustdoc
+      - name: Archive artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: dist/
