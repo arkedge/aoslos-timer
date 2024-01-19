@@ -37,6 +37,6 @@
     "postcss": "8.4.33",
     "prettier": "2.8.8",
     "typescript": "5.3.3",
-    "vite": "4.5.1"
+    "vite": "4.5.2"
   }
 }
