@@ -17,8 +17,8 @@
   "dependencies": {
     "@blueprintjs/core": "4.20.2",
     "@blueprintjs/icons": "4.16.0",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "tailwindcss": "3.4.17"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "eslint-config-prettier": "8.10.0",
     "eslint-config-react": "1.1.7",
     "eslint-plugin-react": "7.37.4",
-    "eslint-plugin-react-hooks": "4.6.2",
+    "eslint-plugin-react-hooks": "5.1.0",
     "npm-run-all": "4.1.5",
     "postcss": "8.4.49",
     "prettier": "2.8.8",
